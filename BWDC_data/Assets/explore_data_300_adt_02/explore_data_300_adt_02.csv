@@ -1,0 +1,301 @@
+year,race,metric_type,metric,median,percentile_25,percentile_75,percentile_99
+2007,All,Debt,Total Debt,83075.84,16787.99,204082.65,1191206.33
+2007,Hispanic,Debt,Total Debt,65917.53,12097.22,181458.37,1386243.23
+2007,Black,Debt,Total Debt,37526.09,7529.91,156770.16,739412.01
+2007,Other,Debt,Total Debt,64436.24,12665.05,218935.08,1394884.1
+2007,White,Debt,Total Debt,94062.1,22219.39,215281.23,1200711.3
+2007,Other,Debt,Other Debts,6172.05,2592.26,14812.93,123441.07
+2007,White,Debt,Other Debts,6172.05,2468.82,13578.52,246882.14
+2007,All,Debt,Other Debts,6172.05,2468.82,12344.11,203677.77
+2007,Black,Debt,Other Debts,3703.23,1357.85,8640.87,49376.43
+2007,Hispanic,Debt,Other Debts,6542.38,4937.64,11109.7,203677.77
+2007,Black,Asset,Total Assets,87581.44,9134.64,341907.08,1660035.52
+2007,White,Asset,Total Assets,335760.95,111319.16,746448.16,12314617.01
+2007,Other,Asset,Total Assets,161337.48,23700.69,564002.25,10156360.99
+2007,Hispanic,Asset,Total Assets,87174.08,10862.81,379704.73,2693360.72
+2007,All,Asset,Total Assets,273693.54,53203.1,656706.5,10814104.39
+2007,Hispanic,Debt,Education Loans,12344.11,6912.7,29625.86,124675.48
+2007,Black,Debt,Education Loans,11356.58,5431.41,30119.62,135785.18
+2007,White,Debt,Education Loans,16047.34,7283.02,37032.32,185161.61
+2007,Other,Debt,Education Loans,12344.11,6789.26,30860.27,138254
+2007,All,Debt,Education Loans,14812.93,6172.05,32465,139488.41
+2007,Other,Debt,Installment Loans,16047.34,6665.82,29625.86,187630.43
+2007,White,Debt,Installment Loans,16047.34,7406.46,30860.27,158004.57
+2007,Hispanic,Debt,Installment Loans,16294.22,5061.08,30860.27,112331.37
+2007,All,Debt,Installment Loans,16047.34,6665.82,30736.83,154301.34
+2007,Black,Debt,Installment Loans,12344.11,4443.88,28391.45,83693.05
+2007,Black,Asset,Directly Held Stocks,9875.29,1234.41,37032.32,141957.23
+2007,All,Asset,Directly Held Stocks,20984.98,3703.23,98752.86,3703232.13
+2007,Other,Asset,Directly Held Stocks,8270.55,3703.23,37032.32,1481292.85
+2007,White,Asset,Directly Held Stocks,23453.8,3703.23,119737.84,4320437.48
+2007,Hispanic,Asset,Directly Held Stocks,11109.7,2715.7,61720.54,617205.35
+2007,All,Asset,Pooled Investment Fund Assets,69127,19750.57,270335.95,5925171.4
+2007,White,Asset,Pooled Investment Fund Assets,79002.29,24688.21,293172.54,5986891.94
+2007,Hispanic,Asset,Pooled Investment Fund Assets,37032.32,4320.44,98752.86,1049249.1
+2007,Black,Asset,Pooled Investment Fund Assets,27157.04,12344.11,61720.54,425871.69
+2007,Other,Asset,Pooled Investment Fund Assets,45673.2,12344.11,148129.29,1245520.4
+2007,Other,Asset,Quasi-Liquid Retirement Accounts,39007.38,10492.49,118503.43,944324.19
+2007,Black,Asset,Quasi-Liquid Retirement Accounts,32094.68,8887.76,79002.29,654237.68
+2007,All,Asset,Quasi-Liquid Retirement Accounts,55548.48,13578.52,171583.09,1845444.01
+2007,Hispanic,Asset,Quasi-Liquid Retirement Accounts,20984.98,6172.05,61720.54,728302.32
+2007,White,Asset,Quasi-Liquid Retirement Accounts,65423.77,16294.22,197505.71,2102818.64
+2007,Other,Debt,Debt Secured by Primary Residence,159238.98,83939.93,261695.07,1002341.5
+2007,Black,Debt,Debt Secured by Primary Residence,119737.84,61720.54,207381,732005.55
+2007,White,Debt,Debt Secured by Primary Residence,130847.54,67892.59,233303.62,1049249.1
+2007,All,Debt,Debt Secured by Primary Residence,132081.95,69127,237006.86,999872.67
+2007,Hispanic,Debt,Debt Secured by Primary Residence,141957.23,86408.75,246882.14,982590.92
+2007,Other,Asset,Cash Value of Whole Life Insurance,8640.87,2468.82,45673.2,246882.14
+2007,White,Asset,Cash Value of Whole Life Insurance,11109.7,3456.35,33329.09,555484.82
+2007,All,Asset,Cash Value of Whole Life Insurance,9875.29,2715.7,30860.27,493764.28
+2007,Black,Asset,Cash Value of Whole Life Insurance,6172.05,1851.62,19750.57,308602.68
+2007,Hispanic,Asset,Cash Value of Whole Life Insurance,5554.85,851.74,18516.16,209849.82
+2007,Hispanic,Debt,Credit Card Balances after Last Payment,3172.44,790.02,8640.87,62954.95
+2007,White,Debt,Credit Card Balances after Last Payment,4073.56,1110.97,12344.11,83939.93
+2007,All,Debt,Credit Card Balances after Last Payment,3703.23,987.53,10924.53,75422.49
+2007,Black,Debt,Credit Card Balances after Last Payment,2468.82,962.84,7085.52,58017.3
+2007,Other,Debt,Credit Card Balances after Last Payment,3086.03,1110.97,9258.08,61720.54
+2007,Other,Asset,Total Value of Household Stock Holdings,24688.21,6480.66,103690.5,1425991.25
+2007,Hispanic,Asset,Total Value of Household Stock Holdings,14059.94,3703.23,46907.61,728302.32
+2007,All,Asset,Total Value of Household Stock Holdings,41969.96,9258.08,153807.57,3954866.75
+2007,White,Asset,Total Value of Household Stock Holdings,49376.43,11850.34,183309.99,4645087.5
+2007,Black,Asset,Total Value of Household Stock Holdings,18516.16,4629.04,55548.48,630536.99
+2010,Black,Debt,Total Debt,36643.53,6763.15,119003.12,636961.23
+2010,White,Debt,Total Debt,99679.84,23564.97,212685.67,1296073.54
+2010,Hispanic,Debt,Total Debt,36172.23,8247.74,137619.45,643653.69
+2010,All,Debt,Total Debt,83184.36,16495.48,196767.53,1178248.68
+2010,Other,Debt,Total Debt,81299.16,10380.37,248021.35,1115801.5
+2010,All,Debt,Other Debts,5302.12,1885.2,12960.74,188519.79
+2010,Black,Debt,Other Debts,2474.32,1178.25,7069.49,47129.95
+2010,Hispanic,Debt,Other Debts,5891.24,1885.2,11782.49,70694.92
+2010,White,Debt,Other Debts,6126.89,2356.5,16495.48,225045.5
+2010,Other,Debt,Other Debts,3534.75,1885.2,11782.49,188519.79
+2010,All,Asset,Total Assets,219625.55,40885.23,505115.21,8849001.03
+2010,Other,Asset,Total Assets,152936.68,18969.8,407791.87,6806271.3
+2010,Black,Asset,Total Assets,73169.24,11275.84,248846.12,2243644.69
+2010,Hispanic,Asset,Total Assets,63389.78,11783.67,228615.59,1915125.4
+2010,White,Asset,Total Assets,280069.71,95190.71,631187.82,10474889.94
+2010,All,Debt,Education Loans,15317.23,7069.49,34169.21,250966.97
+2010,Other,Debt,Education Loans,12960.74,7305.14,31812.71,359365.85
+2010,Hispanic,Debt,Education Loans,12960.74,5891.24,24861.05,126072.61
+2010,White,Debt,Education Loans,15552.88,7069.49,35347.46,194411.03
+2010,Black,Debt,Education Loans,15317.23,7069.49,35347.46,312235.9
+2010,White,Debt,Installment Loans,16024.18,6951.67,30634.47,190876.29
+2010,Other,Debt,Installment Loans,12960.74,5302.12,28277.97,355795.75
+2010,All,Debt,Installment Loans,14963.76,5891.24,29680.08,202929.77
+2010,Hispanic,Debt,Installment Loans,11429.01,3652.57,23093.67,100622.44
+2010,Black,Debt,Installment Loans,13549.86,5419.94,31812.71,206193.52
+2010,Other,Asset,Directly Held Stocks,23564.97,3534.75,117824.87,1790937.99
+2010,All,Asset,Directly Held Stocks,23564.97,4712.99,106042.38,4006045.5
+2010,Black,Asset,Directly Held Stocks,8836.87,1531.72,29456.22,1885197.88
+2010,Hispanic,Asset,Directly Held Stocks,3534.75,1649.55,23564.97,141389.84
+2010,White,Asset,Directly Held Stocks,29456.22,5891.24,117824.87,4595169.83
+2010,Other,Asset,Pooled Investment Fund Assets,70694.92,10604.24,239184.48,5297406.05
+2010,All,Asset,Pooled Investment Fund Assets,94259.89,23564.97,306344.66,5302119.04
+2010,Hispanic,Asset,Pooled Investment Fund Assets,14138.98,706.95,70694.92,10859918.04
+2010,White,Asset,Pooled Investment Fund Assets,107220.63,24743.22,341692.12,5313901.53
+2010,Black,Asset,Pooled Investment Fund Assets,35347.46,11782.49,64803.68,3181271.42
+2010,Hispanic,Asset,Quasi-Liquid Retirement Accounts,21208.48,4830.82,58912.43,1028611.09
+2010,Other,Asset,Quasi-Liquid Retirement Accounts,45951.7,11782.49,159063.57,2020696.48
+2010,All,Asset,Quasi-Liquid Retirement Accounts,51842.94,14138.98,184985.04,2132630.1
+2010,Black,Asset,Quasi-Liquid Retirement Accounts,21208.48,6951.67,60090.68,1023898.1
+2010,White,Asset,Quasi-Liquid Retirement Accounts,63625.43,17673.73,227401.99,2368279.84
+2010,Black,Debt,Debt Secured by Primary Residence,100151.14,53021.19,150815.83,624471.8
+2010,White,Debt,Debt Secured by Primary Residence,131963.85,69516.67,229758.49,1165287.94
+2010,Hispanic,Debt,Debt Secured by Primary Residence,104864.13,53021.19,203837.02,636254.28
+2010,Other,Debt,Debt Secured by Primary Residence,170846.06,88368.65,306344.66,1425680.9
+2010,All,Debt,Debt Secured by Primary Residence,128429.11,68338.42,223867.25,1083988.78
+2010,Black,Asset,Cash Value of Whole Life Insurance,4241.7,1178.25,15317.23,117824.87
+2010,Other,Asset,Cash Value of Whole Life Insurance,7069.49,3181.27,28277.97,353474.6
+2010,White,Asset,Cash Value of Whole Life Insurance,9425.99,2827.8,30634.47,412387.04
+2010,All,Asset,Cash Value of Whole Life Insurance,8601.22,2356.5,29456.22,353474.6
+2010,Hispanic,Asset,Cash Value of Whole Life Insurance,5891.24,1885.2,31812.71,217976
+2010,Hispanic,Debt,Credit Card Balances after Last Payment,1885.2,648.04,5773.42,35347.46
+2010,All,Debt,Credit Card Balances after Last Payment,3063.45,919.03,9897.29,67160.17
+2010,White,Debt,Credit Card Balances after Last Payment,3652.57,1060.42,11169.8,68574.07
+2010,Black,Debt,Credit Card Balances after Last Payment,2238.67,589.12,6539.28,41238.7
+2010,Other,Debt,Credit Card Balances after Last Payment,2568.58,824.77,9425.99,70694.92
+2010,Hispanic,Asset,Total Value of Household Stock Holdings,6150.46,2050.15,40060.45,699879.71
+2010,Black,Asset,Total Value of Household Stock Holdings,10604.24,2827.8,38528.73,539048.77
+2010,All,Asset,Total Value of Household Stock Holdings,34169.21,6626.47,147281.08,3452268.62
+2010,White,Asset,Total Value of Household Stock Holdings,41857.28,9261.03,180861.17,3711483.33
+2010,Other,Asset,Total Value of Household Stock Holdings,25594.51,4477.34,120762.54,3310878.78
+2013,Black,Debt,Total Debt,28552.43,6852.58,104326.17,457387.89
+2013,All,Debt,Total Debt,66329.48,14276.21,177903.57,911481.27
+2013,Hispanic,Debt,Total Debt,27454.26,5490.85,125894.23,557321.38
+2013,Other,Debt,Total Debt,47221.32,9883.53,200965.15,1029534.56
+2013,White,Debt,Total Debt,90269.59,19876.88,197670.64,1005923.9
+2013,White,Debt,Other Debts,5490.85,1647.26,13178.04,439268.08
+2013,Black,Debt,Other Debts,1427.62,724.79,4392.68,32945.11
+2013,Other,Debt,Other Debts,4392.68,768.72,10981.7,43926.81
+2013,All,Debt,Other Debts,4392.68,1317.8,10981.7,314076.68
+2013,Hispanic,Debt,Other Debts,5490.85,2196.34,10981.7,65890.21
+2013,All,Asset,Total Assets,195188.77,32286.2,486050.13,9319072.32
+2013,Hispanic,Asset,Total Assets,43234.96,9224.63,211727.21,1362609.58
+2013,White,Asset,Total Assets,260266.34,83241.3,645669.17,11013988.21
+2013,Other,Asset,Total Assets,90818.68,16472.55,436083.39,5366757.77
+2013,Black,Asset,Total Assets,58433.64,8457.01,196462.65,1470449.9
+2013,Black,Debt,Education Loans,16472.55,6479.2,34043.28,104326.17
+2013,Hispanic,Debt,Education Loans,14276.21,5490.85,26356.08,107620.68
+2013,All,Debt,Education Loans,18668.89,6589.02,39534.13,228419.4
+2013,White,Debt,Education Loans,19767.06,7687.19,39534.13,310782.17
+2013,Other,Debt,Education Loans,17570.72,6698.84,47221.32,214143.19
+2013,All,Debt,Installment Loans,16362.74,6567.06,30748.77,172412.72
+2013,Black,Debt,Installment Loans,14276.21,5490.85,30748.77,107620.68
+2013,Other,Debt,Installment Loans,14715.48,6808.66,34043.28,170655.65
+2013,White,Debt,Installment Loans,16582.37,6808.66,31846.94,201371.47
+2013,Hispanic,Debt,Installment Loans,13178.04,5490.85,25257.91,115307.87
+2013,Other,Asset,Directly Held Stocks,17570.72,5271.22,87853.62,1537438.28
+2013,Hispanic,Asset,Directly Held Stocks,24159.74,2965.06,118602.38,3294510.6
+2013,Black,Asset,Directly Held Stocks,7247.92,1427.62,25257.91,1976706.36
+2013,All,Asset,Directly Held Stocks,29650.6,5490.85,137271.28,3294510.6
+2013,White,Asset,Directly Held Stocks,32945.11,6589.02,164725.53,3623961.66
+2013,White,Asset,Pooled Investment Fund Assets,109817.02,24159.74,340432.76,6904196.05
+2013,Other,Asset,Pooled Investment Fund Assets,41730.47,8785.36,164725.53,3294510.6
+2013,Black,Asset,Pooled Investment Fund Assets,16472.55,4392.68,37337.79,428286.38
+2013,Hispanic,Asset,Pooled Investment Fund Assets,21963.4,10981.7,197670.64,1647255.3
+2013,All,Asset,Pooled Investment Fund Assets,87853.62,18668.89,329451.06,6369387.16
+2013,Black,Asset,Quasi-Liquid Retirement Accounts,20865.23,5710.49,54908.51,483194.89
+2013,Hispanic,Asset,Quasi-Liquid Retirement Accounts,17680.54,3294.51,54908.51,296505.95
+2013,White,Asset,Quasi-Liquid Retirement Accounts,83460.94,21743.77,254775.49,2679535.29
+2013,Other,Asset,Quasi-Liquid Retirement Accounts,47770.4,12079.87,185590.76,1280466.45
+2013,All,Asset,Quasi-Liquid Retirement Accounts,64792.04,15374.38,214143.19,2361065.93
+2013,Black,Debt,Debt Secured by Primary Residence,98835.32,45024.98,158136.51,549085.1
+2013,White,Debt,Debt Secured by Primary Residence,129584.08,69184.72,216339.53,822529.48
+2013,Hispanic,Debt,Debt Secured by Primary Residence,137271.28,75773.74,197670.64,582030.21
+2013,All,Debt,Debt Secured by Primary Residence,126289.57,66988.38,216339.53,810449.61
+2013,Other,Debt,Debt Secured by Primary Residence,170216.38,87853.62,301996.81,1537438.28
+2013,All,Asset,Cash Value of Whole Life Insurance,8785.36,2196.34,24159.74,439268.08
+2013,Other,Asset,Cash Value of Whole Life Insurance,8785.36,1537.44,21963.4,219634.04
+2013,Hispanic,Asset,Cash Value of Whole Life Insurance,5490.85,1976.71,13178.04,82362.77
+2013,White,Asset,Cash Value of Whole Life Insurance,9883.53,2965.06,27454.26,590815.57
+2013,Black,Asset,Cash Value of Whole Life Insurance,3294.51,768.72,10981.7,274542.55
+2013,Black,Debt,Credit Card Balances after Last Payment,1592.35,658.9,4392.68,24159.74
+2013,White,Debt,Credit Card Balances after Last Payment,2965.06,878.54,8346.09,54908.51
+2013,All,Debt,Credit Card Balances after Last Payment,2525.79,757.74,7357.74,48099.85
+2013,Other,Debt,Credit Card Balances after Last Payment,2196.34,746.76,7687.19,46452.6
+2013,Hispanic,Debt,Credit Card Balances after Last Payment,1757.07,428.29,5490.85,30748.77
+2013,Black,Asset,Total Value of Household Stock Holdings,9114.81,2196.34,30199.68,371181.53
+2013,All,Asset,Total Value of Household Stock Holdings,39314.49,8126.46,183064.97,3810650.6
+2013,White,Asset,Total Value of Household Stock Holdings,53810.34,10981.7,225124.89,4394492.78
+2013,Other,Asset,Total Value of Household Stock Holdings,28991.69,7247.92,148252.98,2499709.92
+2013,Hispanic,Asset,Total Value of Household Stock Holdings,8785.36,1663.73,32945.11,576100.09
+2016,Other,Debt,Total Debt,60198.2,12337.44,211225.49,844476.51
+2016,Black,Debt,Total Debt,33364.27,10210.3,103006.99,521575.92
+2016,Hispanic,Debt,Total Debt,31907.17,5956.01,130819.41,653671.62
+2016,All,Debt,Total Debt,63814.35,13826.44,171979.66,979550.21
+2016,White,Debt,Total Debt,78831.99,18080.73,186125.18,1084843.88
+2016,Black,Debt,Other Debts,2658.93,787.04,4254.29,31907.17
+2016,All,Debt,Other Debts,5317.86,1914.43,17017.16,265893.11
+2016,White,Debt,Other Debts,7976.79,2658.93,23398.59,265893.11
+2016,Other,Debt,Other Debts,7445.01,3297.07,26589.31,638143.46
+2016,Hispanic,Debt,Other Debts,2127.14,1063.57,4254.29,106357.24
+2016,Other,Asset,Total Assets,141881.63,18102,532849.79,7951905.65
+2016,Hispanic,Asset,Total Assets,57922.15,9625.33,228689.34,3766109.99
+2016,White,Asset,Total Assets,281613.77,80730.47,702606.59,13956197.47
+2016,All,Asset,Total Assets,201546.98,30748.94,517108.92,11383947.54
+2016,Black,Asset,Total Assets,49519.93,8923.37,196654.54,1802936.08
+2016,Black,Debt,Education Loans,21271.45,9678.51,44670.04,238240.23
+2016,All,Debt,Education Loans,20207.88,8827.65,44138.26,233985.94
+2016,Other,Debt,Education Loans,20207.88,7232.29,42649.25,366719.77
+2016,White,Debt,Education Loans,20314.23,8934.01,45308.19,222286.64
+2016,Hispanic,Debt,Education Loans,19144.3,8508.58,42542.9,220159.49
+2016,White,Debt,Installment Loans,18080.73,8083.15,38288.61,222286.64
+2016,All,Debt,Installment Loans,18080.73,8508.58,37756.82,216968.78
+2016,Other,Debt,Installment Loans,17336.23,8806.38,36001.93,276528.83
+2016,Black,Debt,Installment Loans,20207.88,9678.51,40415.75,194389.13
+2016,Hispanic,Debt,Installment Loans,16804.44,8508.58,31907.17,193570.18
+2016,White,Asset,Directly Held Stocks,31907.17,6381.43,159535.86,5317862.17
+2016,Hispanic,Asset,Directly Held Stocks,11699.3,531.79,170171.59,7976793.25
+2016,All,Asset,Directly Held Stocks,26589.31,5317.86,134010.13,5317862.17
+2016,Black,Asset,Directly Held Stocks,7976.79,2658.93,47860.76,797679.32
+2016,Other,Asset,Directly Held Stocks,21271.45,5317.86,106357.24,2871645.57
+2016,Hispanic,Asset,Pooled Investment Fund Assets,20207.88,4254.29,186125.18,5527385.94
+2016,White,Asset,Pooled Investment Fund Assets,139327.99,31907.17,564756.96,12762869.2
+2016,Other,Asset,Pooled Investment Fund Assets,92530.8,21271.45,531786.22,2776987.62
+2016,Black,Asset,Pooled Investment Fund Assets,28716.46,13826.44,106357.24,691322.08
+2016,All,Asset,Pooled Investment Fund Assets,121247.26,30843.6,531786.22,11167510.55
+2016,Hispanic,Asset,Quasi-Liquid Retirement Accounts,24462.17,9146.72,59560.06,1544307.17
+2016,Other,Asset,Quasi-Liquid Retirement Accounts,55305.77,9891.22,211757.27,2222866.39
+2016,All,Asset,Quasi-Liquid Retirement Accounts,63814.35,15953.59,230795.22,2442281.38
+2016,White,Asset,Quasi-Liquid Retirement Accounts,81895.08,19144.3,288228.13,2595116.74
+2016,Black,Asset,Quasi-Liquid Retirement Accounts,26270.24,6381.43,95721.52,860430.1
+2016,Hispanic,Debt,Debt Secured by Primary Residence,105293.67,63814.35,182934.46,701957.81
+2016,Black,Debt,Debt Secured by Primary Residence,82958.65,47860.76,158472.29,490306.89
+2016,All,Debt,Debt Secured by Primary Residence,118056.54,62750.77,207396.62,957215.19
+2016,White,Debt,Debt Secured by Primary Residence,122310.83,63814.35,205269.48,983804.5
+2016,Other,Debt,Debt Secured by Primary Residence,159535.86,80831.5,287164.56,1169929.68
+2016,Black,Asset,Cash Value of Whole Life Insurance,4041.58,957.22,11699.3,180807.31
+2016,Hispanic,Asset,Cash Value of Whole Life Insurance,5849.65,744.5,23398.59,611554.15
+2016,White,Asset,Cash Value of Whole Life Insurance,10635.72,3190.72,34034.32,744500.7
+2016,Other,Asset,Cash Value of Whole Life Insurance,5317.86,1063.57,17017.16,255257.38
+2016,All,Asset,Cash Value of Whole Life Insurance,9040.37,2127.14,28716.46,638143.46
+2016,All,Debt,Credit Card Balances after Last Payment,2446.22,744.5,7019.58,45733.61
+2016,Black,Debt,Credit Card Balances after Last Payment,1457.09,425.43,4360.65,35097.89
+2016,Other,Debt,Credit Card Balances after Last Payment,2520.67,638.14,7445.01,46329.22
+2016,Hispanic,Debt,Credit Card Balances after Last Payment,1808.07,510.51,5211.5,31907.17
+2016,White,Debt,Credit Card Balances after Last Payment,2871.65,904.04,8508.58,53178.62
+2016,All,Asset,Total Value of Household Stock Holdings,42542.9,8508.58,188252.32,5873578.76
+2016,Hispanic,Asset,Total Value of Household Stock Holdings,11486.58,3084.36,42542.9,1855933.9
+2016,White,Asset,Total Value of Household Stock Holdings,54692.58,11167.51,235581.29,6652645.57
+2016,Black,Asset,Total Value of Household Stock Holdings,12762.87,2871.65,54029.48,763006.86
+2016,Other,Asset,Total Value of Household Stock Holdings,29992.74,7232.29,165172.8,3179566.84
+2019,Hispanic,Debt,Total Debt,40000,9800,153100,746700
+2019,Other,Debt,Total Debt,71000,11000,231000,1055000
+2019,All,Debt,Total Debt,65000,13150,193290,934000
+2019,White,Debt,Total Debt,79000,17000,204000,945000
+2019,Black,Debt,Total Debt,27500,5500,112100,590000
+2019,Other,Debt,Other Debts,3000,1000,10000,180000
+2019,Black,Debt,Other Debts,2300,1200,6000,86000
+2019,White,Debt,Other Debts,7500,2500,20000,338000
+2019,Hispanic,Debt,Other Debts,4200,2000,12000,180000
+2019,All,Debt,Other Debts,5000,1800,15500,300000
+2019,Black,Asset,Total Assets,53000,8701,210410,2137000
+2019,White,Asset,Total Assets,306360,87500,718210,14102000
+2019,Hispanic,Asset,Total Assets,71800,12800,294290,2228600
+2019,All,Asset,Total Assets,227500,34705,547300,11635000
+2019,Other,Asset,Total Assets,168400,17151,585000,11467600
+2019,Other,Debt,Education Loans,19000,8000,44500,384000
+2019,Black,Debt,Education Loans,30000,9500,61000,291000
+2019,All,Debt,Education Loans,22000,8500,50000,256000
+2019,Hispanic,Debt,Education Loans,17600,8000,32000,329000
+2019,White,Debt,Education Loans,23000,9000,49300,233000
+2019,White,Debt,Installment Loans,18000,7900,40000,233600
+2019,Black,Debt,Installment Loans,17000,7700,46000,260200
+2019,Other,Debt,Installment Loans,18000,8200,42000,384000
+2019,All,Debt,Installment Loans,18000,8000,40000,242000
+2019,Hispanic,Debt,Installment Loans,17000,7700,29000,157700
+2019,Other,Asset,Directly Held Stocks,25000,5000,100000,3500000
+2019,White,Asset,Directly Held Stocks,30000,4500,145000,5800000
+2019,All,Asset,Directly Held Stocks,25000,3700,103000,5500000
+2019,Hispanic,Asset,Directly Held Stocks,25000,300,80000,1500000
+2019,Black,Asset,Directly Held Stocks,12000,2000,37000,800000
+2019,All,Asset,Pooled Investment Fund Assets,110000,26000,500000,14000000
+2019,White,Asset,Pooled Investment Fund Assets,123000,30000,573000,14814000
+2019,Black,Asset,Pooled Investment Fund Assets,87000,17000,110000,4505000
+2019,Other,Asset,Pooled Investment Fund Assets,75000,8000,290000,15000000
+2019,Hispanic,Asset,Pooled Investment Fund Assets,66300,66200,250000,2000000
+2019,Hispanic,Asset,Quasi-Liquid Retirement Accounts,31000,9000,96000,1691000
+2019,Black,Asset,Quasi-Liquid Retirement Accounts,35000,10000,95000,900000
+2019,White,Asset,Quasi-Liquid Retirement Accounts,80000,21900,292000,2805000
+2019,Other,Asset,Quasi-Liquid Retirement Accounts,47000,10500,174500,1689000
+2019,All,Asset,Quasi-Liquid Retirement Accounts,65000,16000,232000,2645000
+2019,Black,Debt,Debt Secured by Primary Residence,116000,58000,188000,503000
+2019,All,Debt,Debt Secured by Primary Residence,135000,68000,232000,850000
+2019,Other,Debt,Debt Secured by Primary Residence,180000,100000,313000,1040000
+2019,Hispanic,Debt,Debt Secured by Primary Residence,130000,90000,215000,700000
+2019,White,Debt,Debt Secured by Primary Residence,130000,63000,232000,847000
+2019,White,Asset,Cash Value of Whole Life Insurance,10000,3000,30000,450000
+2019,Hispanic,Asset,Cash Value of Whole Life Insurance,7800,2500,18000,300000
+2019,Other,Asset,Cash Value of Whole Life Insurance,8400,2000,34000,500000
+2019,Black,Asset,Cash Value of Whole Life Insurance,5500,1900,20000,300000
+2019,All,Asset,Cash Value of Whole Life Insurance,9000,2500,29000,445000
+2019,Black,Debt,Credit Card Balances after Last Payment,1300,400,4900,33500
+2019,White,Debt,Credit Card Balances after Last Payment,3200,1000,8400,51400
+2019,Other,Debt,Credit Card Balances after Last Payment,2400,700,7300,60000
+2019,All,Debt,Credit Card Balances after Last Payment,2700,800,7800,48800
+2019,Hispanic,Debt,Credit Card Balances after Last Payment,1900,700,6700,47000
+2019,Black,Asset,Total Value of Household Stock Holdings,15000,3750,56500,894000
+2019,Hispanic,Asset,Total Value of Household Stock Holdings,15000,3270,65000,1650500
+2019,All,Asset,Total Value of Household Stock Holdings,40000,7800,180000,5560000
+2019,White,Asset,Total Value of Household Stock Holdings,50750,9900,232000,6198200
+2019,Other,Asset,Total Value of Household Stock Holdings,29000,4420,128000,4194800

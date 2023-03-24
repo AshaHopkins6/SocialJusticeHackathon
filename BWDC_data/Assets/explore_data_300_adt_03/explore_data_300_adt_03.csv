@@ -1,0 +1,766 @@
+state_name,race_or_ethnicity,sex,total_assets,total_debt,net_worth,quartiles_total_assets,quartiles_total_debt,quartiles_net_worth
+District of Columbia,All,All,,,,,,
+Rhode Island,All,Female,,,,,,
+North Dakota,All,Female,,,,,,
+South Dakota,All,Female,,,,,,
+South Dakota,All,Male,,,,,,
+Nebraska,All,Female,,,,,,
+Vermont,All,Male,,,,,,
+Rhode Island,All,Male,,,,,,
+District of Columbia,All,Female,,,,,,
+Delaware,All,Male,,,,,,
+South Dakota,All,All,,,,,,
+Montana,All,Female,,,,,,
+Alaska,All,Male,,,,,,
+Wyoming,All,Female,,,,,,
+North Dakota,All,Male,,,,,,
+Wyoming,All,Male,,,,,,
+North Dakota,All,All,,,,,,
+Hawaii,All,Male,,,,,,
+Delaware,All,Female,,,,,,
+District of Columbia,All,Male,,,,,,
+Vermont,All,Female,,,,,,
+Alaska,All,Female,,,,,,
+Nebraska,All,Male,,,,,,
+Pennsylvania,All,Female,118948,37750,61900,26-50% of geographies,26-50% of geographies,51-75% of geographies
+New Mexico,All,Female,95300,30600,27400,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies
+Georgia,All,Female,91875,40000,26860,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies
+Illinois,All,Female,116203,51000,46510,26-50% of geographies,51-75% of geographies,26-50% of geographies
+Arkansas,All,Female,90025,36000,31972,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies
+Louisiana,All,Male,165900,42000,87000,26-50% of geographies,26-50% of geographies,26-50% of geographies
+North Carolina,All,Female,114465,32000,67490,26-50% of geographies,26-50% of geographies,51-75% of geographies
+Kentucky,All,Male,122580,48000,65920,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Louisiana,All,Female,90500,40201,32210,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies
+North Carolina,All,Male,120700,30000,66400,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+Arizona,All,Male,160150,34500,75000,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+Georgia,All,Male,121900,40000,65000,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+Indiana,All,Male,125530,52250,55900,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies
+Arizona,All,All,134450,40000,63150,26-50% of geographies,26-50% of geographies,26-50% of geographies
+West Virginia,All,Female,105070,25300,48895,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+Missouri,All,Male,161650,75000,93360,26-50% of geographies,51-75% of geographies,51-75% of geographies
+Ohio,All,All,120865,39260,63300,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Ohio,All,Male,140800,44000,94260,26-50% of geographies,26-50% of geographies,51-75% of geographies
+Louisiana,All,All,122270,42000,57195,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Kansas,All,Male,155480,46000,82731,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Rhode Island,All,All,122970,,15580,26-50% of geographies,,Bottom 25% of geographies
+North Carolina,All,All,119300,30000,67490,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+Missouri,All,All,112590,46800,59025,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Tennessee,All,Male,143770,55015,74334,26-50% of geographies,51-75% of geographies,26-50% of geographies
+Michigan,All,All,136605,51500,66036,26-50% of geographies,51-75% of geographies,26-50% of geographies
+Idaho,All,Female,89910,33900,40553,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Texas,All,Female,89400,25600,42920,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+New York,All,All,118790,36600,56800,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Nevada,All,All,112790,41700,43331,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies
+Illinois,All,Male,155000,61500,78710,26-50% of geographies,51-75% of geographies,26-50% of geographies
+Maine,All,All,124825,53000,90660,26-50% of geographies,51-75% of geographies,51-75% of geographies
+South Carolina,All,All,123790,35000,51190,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Michigan,All,Male,160400,53000,87401,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Michigan,All,Female,115000,45501,52330,26-50% of geographies,51-75% of geographies,51-75% of geographies
+Ohio,All,Female,99000,32026,38900,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Nevada,All,Male,152000,75000,47124,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies
+Oklahoma,All,All,118600,52500,53700,26-50% of geographies,51-75% of geographies,26-50% of geographies
+Washington,All,All,187000,91200,92900,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+Pennsylvania,All,Male,195906,64350,100825,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Washington,All,Female,179060,87000,86730,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+Washington,All,Male,193100,91200,100000,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+Wyoming,All,All,180450,,87500,51-75% of geographies,,51-75% of geographies
+Arizona,All,Female,120150,41700,33610,51-75% of geographies,51-75% of geographies,Bottom 25% of geographies
+Wisconsin,All,All,156260,56500,79000,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Iowa,All,Male,184200,63400,112245,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Utah,All,All,223110,72000,109936,51-75% of geographies,Top 25% of geographies,Top 25% of geographies
+Oregon,All,Male,208815,75000,117760,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Oregon,All,All,193235,60129,92241,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Connecticut,All,Male,201695,67150,66160,51-75% of geographies,51-75% of geographies,26-50% of geographies
+Florida,All,Female,147610,41700,44805,51-75% of geographies,51-75% of geographies,26-50% of geographies
+Illinois,All,All,137990,51000,56500,51-75% of geographies,51-75% of geographies,26-50% of geographies
+New York,All,Female,133000,38350,55230,51-75% of geographies,26-50% of geographies,51-75% of geographies
+Iowa,All,Female,129480,36000,62100,51-75% of geographies,26-50% of geographies,51-75% of geographies
+New Hampshire,All,All,198858,57300,105804,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Montana,All,All,186500,98200,118970,51-75% of geographies,Top 25% of geographies,Top 25% of geographies
+South Carolina,All,Male,176110,50600,79820,51-75% of geographies,26-50% of geographies,26-50% of geographies
+Oregon,All,Female,178445,41700,86548,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Wisconsin,All,Male,202085,56000,124610,51-75% of geographies,51-75% of geographies,51-75% of geographies
+New Hampshire,All,Male,182210,,105804,51-75% of geographies,,51-75% of geographies
+Idaho,All,All,173700,52500,72662,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Florida,All,Male,178050,52500,103581,51-75% of geographies,26-50% of geographies,51-75% of geographies
+Florida,All,All,157960,50000,71485,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Montana,All,Male,219376,,140900,51-75% of geographies,,Top 25% of geographies
+Vermont,All,All,182000,,121650,51-75% of geographies,,Top 25% of geographies
+Wisconsin,All,Female,123585,56500,50900,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Pennsylvania,All,All,152825,52000,79706,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Iowa,All,All,154270,52000,91700,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Maine,All,Female,143160,,122860,51-75% of geographies,,Top 25% of geographies
+Oklahoma,All,Female,120575,56000,41700,51-75% of geographies,51-75% of geographies,26-50% of geographies
+Connecticut,All,Female,244400,45600,122800,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+Utah,All,Male,299550,103500,130350,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Virginia,All,Female,186097,59000,64220,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+Virginia,All,All,245800,82500,123200,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Maryland,All,Male,285000,90000,203100,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Minnesota,All,All,242600,71000,139590,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Hawaii,All,Female,388915,,208560,Top 25% of geographies,,Top 25% of geographies
+California,All,All,251040,71800,109820,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Massachusetts,All,All,254850,75000,125130,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+California,All,Female,222640,75000,98430,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+California,All,Male,272425,67500,134852,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+Minnesota,All,Male,277030,71000,170445,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+Massachusetts,All,Male,306790,79000,155200,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Colorado,All,All,297965,91500,174400,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+New Jersey,All,Male,272900,89700,153650,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Virginia,All,Male,323976,90500,184050,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Massachusetts,All,Female,226570,64000,97760,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+New Jersey,All,All,251640,86000,120500,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Utah,All,Female,189350,62500,98070,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+Maryland,All,Female,236970,95500,75660,Top 25% of geographies,Top 25% of geographies,51-75% of geographies
+Colorado,All,Female,271005,95000,145990,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Colorado,All,Male,330000,80000,209870,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Idaho,All,Male,255745,88500,137945,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Maryland,All,All,245710,93500,131540,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Connecticut,All,All,226910,53000,105425,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+Alaska,All,All,265000,,53940,Top 25% of geographies,,26-50% of geographies
+Hawaii,All,All,350000,123000,162675,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+New Hampshire,All,Female,224000,69000,187190,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+New Jersey,All,Female,203290,77500,74500,Top 25% of geographies,Top 25% of geographies,51-75% of geographies
+Delaware,All,All,237410,,89640,Top 25% of geographies,,51-75% of geographies
+Minnesota,All,Female,212259,74500,109360,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Texas,All,All,105000,30000,56110,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+Georgia,All,All,104360,40000,46240,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+New Mexico,All,Male,105985,49000,24580,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+Nevada,All,Female,82000,14000,36800,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+Kentucky,All,All,107420,46500,53760,Bottom 25% of geographies,26-50% of geographies,26-50% of geographies
+Indiana,All,All,109986,36530,51295,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+Oklahoma,All,Male,118600,49000,67300,Bottom 25% of geographies,26-50% of geographies,26-50% of geographies
+West Virginia,All,Male,100000,31700,48250,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Tennessee,All,Female,83766,26010,34690,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+New York,All,Male,113520,36600,61440,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Alabama,All,Male,112930,53500,45940,Bottom 25% of geographies,51-75% of geographies,Bottom 25% of geographies
+Nebraska,All,All,89100,40000,36600,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+Alabama,All,Female,75000,30200,23943,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+Arkansas,All,Male,73380,26000,40260,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Kentucky,All,Female,75280,40000,43230,Bottom 25% of geographies,26-50% of geographies,26-50% of geographies
+New Mexico,All,All,102290,34000,24580,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+South Carolina,All,Female,83204,24080,39865,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+Kansas,All,Female,48165,16360,30670,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Missouri,All,Female,67950,29000,34480,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+Indiana,All,Female,86600,23850,45630,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+Alabama,All,All,96860,41650,38000,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+West Virginia,All,All,105070,30000,48895,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Mississippi,All,All,68185,27000,26250,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Kansas,All,All,98120,23000,52100,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+Tennessee,All,All,103100,41000,48660,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+Maine,All,Male,101279,,49463,Bottom 25% of geographies,,Bottom 25% of geographies
+Mississippi,All,Male,96350,31000,60685,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Texas,All,Male,120120,41850,62220,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Mississippi,All,Female,48500,22500,10400,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Arkansas,All,All,82500,30900,40260,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Kansas,Asian,All,,,,,,
+Virginia,Asian,All,,,,,,
+Illinois,Asian,Female,,,,,,
+Louisiana,Asian,Male,,,,,,
+South Carolina,Asian,Male,,,,,,
+Iowa,Asian,Male,,,,,,
+Illinois,Asian,Male,,,,,,
+Maine,Asian,Male,,,,,,
+New Hampshire,Asian,Male,,,,,,
+Maine,Asian,Female,,,,,,
+Colorado,Asian,All,,,,,,
+Connecticut,Asian,All,,,,,,
+Louisiana,Asian,All,,,,,,
+New Jersey,Asian,Male,,,,,,
+Utah,Asian,Female,,,,,,
+New Jersey,Asian,Female,,,,,,
+Vermont,Asian,Female,,,,,,
+Kentucky,Asian,All,,,,,,
+Montana,Asian,All,,,,,,
+Colorado,Asian,Female,,,,,,
+Pennsylvania,Asian,Female,,,,,,
+Wyoming,Asian,Male,,,,,,
+Arizona,Asian,Female,,,,,,
+Massachusetts,Asian,Male,,,,,,
+Florida,Asian,All,,,,,,
+South Dakota,Asian,All,,,,,,
+New Jersey,Asian,All,,,,,,
+Minnesota,Asian,All,,,,,,
+West Virginia,Asian,Female,,,,,,
+Nebraska,Asian,Male,,,,,,
+New Mexico,Asian,All,,,,,,
+Alaska,Asian,Female,,,,,,
+South Dakota,Asian,Female,,,,,,
+Arkansas,Asian,All,,,,,,
+Massachusetts,Asian,All,,,,,,
+Alaska,Asian,Male,,,,,,
+Georgia,Asian,Male,,,,,,
+Wyoming,Asian,All,,,,,,
+North Carolina,Asian,Female,,,,,,
+Georgia,Asian,All,,,,,,
+Hawaii,Asian,Male,,,,,,
+Rhode Island,Asian,Female,,,,,,
+Kansas,Asian,Female,,,,,,
+Nevada,Asian,Male,,,,,,
+North Carolina,Asian,Male,,,,,,
+New Mexico,Asian,Female,,,,,,
+Missouri,Asian,All,,,,,,
+Oregon,Asian,Male,,,,,,
+Wisconsin,Asian,All,,,,,,
+Arkansas,Asian,Male,,,,,,
+Nevada,Asian,Female,,,,,,
+Tennessee,Asian,Female,,,,,,
+Virginia,Asian,Female,,,,,,
+Delaware,Asian,Female,,,,,,
+Iowa,Asian,Female,,,,,,
+North Dakota,Asian,Female,,,,,,
+West Virginia,Asian,Male,,,,,,
+Ohio,Asian,Female,,,,,,
+Michigan,Asian,All,,,,,,
+Florida,Asian,Male,,,,,,
+Ohio,Asian,All,,,,,,
+New Hampshire,Asian,All,,,,,,
+Vermont,Asian,All,,,,,,
+Pennsylvania,Asian,Male,,,,,,
+District of Columbia,Asian,Male,,,,,,
+New York,Asian,Male,,,,,,
+Oregon,Asian,Female,,,,,,
+South Carolina,Asian,All,,,,,,
+Nebraska,Asian,All,,,,,,
+Illinois,Asian,All,,,,,,
+Missouri,Asian,Female,,,,,,
+District of Columbia,Asian,Female,,,,,,
+Colorado,Asian,Male,,,,,,
+Montana,Asian,Female,,,,,,
+Kentucky,Asian,Female,,,,,,
+Michigan,Asian,Female,,,,,,
+Arizona,Asian,Male,,,,,,
+New Mexico,Asian,Male,,,,,,
+Pennsylvania,Asian,All,,,,,,
+Connecticut,Asian,Female,,,,,,
+Oklahoma,Asian,Female,,,,,,
+Oklahoma,Asian,All,,,,,,
+Utah,Asian,All,,,,,,
+Arkansas,Asian,Female,,,,,,
+New York,Asian,Female,,,,,,
+Mississippi,Asian,Female,,,,,,
+Vermont,Asian,Male,,,,,,
+Kansas,Asian,Male,,,,,,
+Washington,Asian,Male,,,,,,
+Virginia,Asian,Male,,,,,,
+Tennessee,Asian,Male,,,,,,
+Nebraska,Asian,Female,,,,,,
+West Virginia,Asian,All,,,,,,
+South Dakota,Asian,Male,,,,,,
+Alabama,Asian,All,,,,,,
+North Dakota,Asian,Male,,,,,,
+Georgia,Asian,Female,,,,,,
+Alabama,Asian,Female,,,,,,
+Louisiana,Asian,Female,,,,,,
+Nevada,Asian,All,,,,,,
+Delaware,Asian,All,,,,,,
+Oregon,Asian,All,,,,,,
+Utah,Asian,Male,,,,,,
+New Hampshire,Asian,Female,,,,,,
+Alaska,Asian,All,,,,,,
+Minnesota,Asian,Female,,,,,,
+Minnesota,Asian,Male,,,,,,
+Rhode Island,Asian,All,,,,,,
+Texas,Asian,Female,,,,,,
+Maine,Asian,All,,,,,,
+Oklahoma,Asian,Male,,,,,,
+Idaho,Asian,Female,,,,,,
+Iowa,Asian,All,,,,,,
+Delaware,Asian,Male,,,,,,
+Hawaii,Asian,All,,,,,,
+Washington,Asian,Female,,,,,,
+South Carolina,Asian,Female,,,,,,
+North Carolina,Asian,All,,,,,,
+Mississippi,Asian,Male,,,,,,
+Maryland,Asian,Male,,,,,,
+Maryland,Asian,Female,,,,,,
+District of Columbia,Asian,All,,,,,,
+Mississippi,Asian,All,,,,,,
+Washington,Asian,All,,,,,,
+Montana,Asian,Male,,,,,,
+Indiana,Asian,All,,,,,,
+Rhode Island,Asian,Male,,,,,,
+Tennessee,Asian,All,,,,,,
+Idaho,Asian,Male,,,,,,
+Arizona,Asian,All,,,,,,
+Indiana,Asian,Female,,,,,,
+Connecticut,Asian,Male,,,,,,
+Ohio,Asian,Male,,,,,,
+Missouri,Asian,Male,,,,,,
+Alabama,Asian,Male,,,,,,
+Michigan,Asian,Male,,,,,,
+Maryland,Asian,All,,,,,,
+Texas,Asian,Male,,,,,,
+Florida,Asian,Female,,,,,,
+Wisconsin,Asian,Female,,,,,,
+Idaho,Asian,All,,,,,,
+Wisconsin,Asian,Male,,,,,,
+Kentucky,Asian,Male,,,,,,
+North Dakota,Asian,All,,,,,,
+Massachusetts,Asian,Female,,,,,,
+Wyoming,Asian,Female,,,,,,
+Hawaii,Asian,Female,,,,,,
+Indiana,Asian,Male,,,,,,
+New York,Asian,All,141500,,128000,26-50% of geographies,,51-75% of geographies
+California,Asian,Female,267130,29000,76600,51-75% of geographies,26-50% of geographies,51-75% of geographies
+Texas,Asian,All,214700,,134700,51-75% of geographies,,51-75% of geographies
+California,Asian,All,379140,81000,175000,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+California,Asian,Male,410275,100000,194550,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+Arkansas,Black,Female,,,,,,
+Oregon,Black,Female,,,,,,
+Washington,Black,Female,,,,,,
+Virginia,Black,Male,,,,,,
+Vermont,Black,Male,,,,,,
+Missouri,Black,Male,,,,,,
+West Virginia,Black,Male,,,,,,
+Rhode Island,Black,All,,,,,,
+Oregon,Black,Male,,,,,,
+Pennsylvania,Black,Male,,,,,,
+Oklahoma,Black,Male,,,,,,
+Maine,Black,Male,,,,,,
+Indiana,Black,Male,,,,,,
+Hawaii,Black,Male,,,,,,
+District of Columbia,Black,Female,,,,,,
+Michigan,Black,Male,,,,,,
+Arizona,Black,Female,,,,,,
+South Carolina,Black,Male,,,,,,
+District of Columbia,Black,All,,,,,,
+Louisiana,Black,Male,,,,,,
+Maine,Black,Female,,,,,,
+Kentucky,Black,Female,,,,,,
+Delaware,Black,All,,,,,,
+West Virginia,Black,All,,,,,,
+North Dakota,Black,Female,,,,,,
+Virginia,Black,Female,,,,,,
+Vermont,Black,All,,,,,,
+Oklahoma,Black,All,,,,,,
+Wyoming,Black,Female,,,,,,
+Pennsylvania,Black,Female,,,,,,
+Colorado,Black,Male,,,,,,
+Iowa,Black,All,,,,,,
+Delaware,Black,Male,,,,,,
+Kansas,Black,All,,,,,,
+Illinois,Black,Male,,,,,,
+Massachusetts,Black,All,,,,,,
+Mississippi,Black,Male,,,30760,,,51-75% of geographies
+New Hampshire,Black,Male,,,,,,
+Vermont,Black,Female,,,,,,
+South Dakota,Black,Male,,,,,,
+Missouri,Black,All,,,,,,
+Missouri,Black,Female,,,,,,
+West Virginia,Black,Female,,,,,,
+Arizona,Black,Male,,,,,,
+Connecticut,Black,All,,,,,,
+Connecticut,Black,Female,,,,,,
+Wisconsin,Black,Female,,,,,,
+Arizona,Black,All,,,,,,
+Utah,Black,Male,,,,,,
+Oregon,Black,All,,,,,,
+New York,Black,Male,,,10000,,,26-50% of geographies
+Indiana,Black,All,,,,,,
+Kansas,Black,Male,,,,,,
+Arkansas,Black,Male,,,,,,
+New Jersey,Black,All,,,,,,
+Rhode Island,Black,Male,,,,,,
+Idaho,Black,Female,,,,,,
+Colorado,Black,All,,,,,,
+Oklahoma,Black,Female,,,,,,
+Ohio,Black,Female,,,,,,
+Nebraska,Black,Female,,,,,,
+Connecticut,Black,Male,,,,,,
+Alabama,Black,Male,,,12527,,,26-50% of geographies
+Delaware,Black,Female,,,,,,
+Montana,Black,Female,,,,,,
+North Dakota,Black,Male,,,,,,
+New Hampshire,Black,All,,,,,,
+North Dakota,Black,All,,,,,,
+District of Columbia,Black,Male,,,,,,
+Massachusetts,Black,Male,,,,,,
+Kentucky,Black,Male,,,,,,
+Kentucky,Black,All,,,,,,
+Indiana,Black,Female,,,,,,
+Alaska,Black,All,,,,,,
+South Dakota,Black,Female,,,,,,
+New Mexico,Black,Male,,,,,,
+New Mexico,Black,All,,,,,,
+New Jersey,Black,Male,,,,,,
+Montana,Black,Male,,,,,,
+Nevada,Black,Female,,,,,,
+New Mexico,Black,Female,,,,,,
+Nevada,Black,Male,,,,,,
+Iowa,Black,Female,,,,,,
+Minnesota,Black,All,,,,,,
+Tennessee,Black,Male,,,,,,
+Wisconsin,Black,All,,,,,,
+Wisconsin,Black,Male,,,,,,
+Hawaii,Black,Female,,,,,,
+Nebraska,Black,Male,,,,,,
+Wyoming,Black,Male,,,,,,
+Maryland,Black,Male,,,,,,
+Texas,Black,Male,,,0,,,Bottom 25% of geographies
+New Jersey,Black,Female,,,,,,
+Arkansas,Black,All,,,5440,,,26-50% of geographies
+Nevada,Black,All,,,,,,
+Maine,Black,All,,,,,,
+Montana,Black,All,,,,,,
+Washington,Black,All,,,,,,
+New Hampshire,Black,Female,,,,,,
+Utah,Black,Female,,,,,,
+Wyoming,Black,All,,,,,,
+Idaho,Black,All,,,,,,
+Alaska,Black,Male,,,,,,
+Utah,Black,All,,,,,,
+Iowa,Black,Male,,,,,,
+Massachusetts,Black,Female,,,,,,
+South Dakota,Black,All,,,,,,
+Ohio,Black,Male,,,,,,
+Washington,Black,Male,,,,,,
+Hawaii,Black,All,,,,,,
+Kansas,Black,Female,,,,,,
+Colorado,Black,Female,,,,,,
+Alaska,Black,Female,,,,,,
+Rhode Island,Black,Female,,,,,,
+Idaho,Black,Male,,,,,,
+Minnesota,Black,Female,,,,,,
+North Carolina,Black,Male,,,,,,
+Nebraska,Black,All,,,,,,
+Minnesota,Black,Male,,,,,,
+Michigan,Black,All,25840,,2000,26-50% of geographies,,Bottom 25% of geographies
+Georgia,Black,Female,27500,32000,8900,26-50% of geographies,51-75% of geographies,51-75% of geographies
+Georgia,Black,All,28600,25000,13500,26-50% of geographies,51-75% of geographies,51-75% of geographies
+South Carolina,Black,All,30790,12240,12283,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+Tennessee,Black,Female,19500,,3400,26-50% of geographies,,26-50% of geographies
+Illinois,Black,Female,20100,,3500,26-50% of geographies,,26-50% of geographies
+New York,Black,All,35200,27700,6500,26-50% of geographies,51-75% of geographies,26-50% of geographies
+Mississippi,Black,All,25050,15000,4310,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Tennessee,Black,All,21480,15500,4900,26-50% of geographies,26-50% of geographies,26-50% of geographies
+California,Black,Female,21550,30500,8190,26-50% of geographies,51-75% of geographies,51-75% of geographies
+Alabama,Black,Female,30335,30200,9825,26-50% of geographies,51-75% of geographies,51-75% of geographies
+Georgia,Black,Male,39813,16000,28100,26-50% of geographies,26-50% of geographies,51-75% of geographies
+Mississippi,Black,Female,24400,14200,300,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies
+Texas,Black,Female,38820,13000,13700,51-75% of geographies,Bottom 25% of geographies,51-75% of geographies
+Texas,Black,All,51440,16000,9990,51-75% of geographies,26-50% of geographies,26-50% of geographies
+Louisiana,Black,Female,34000,,12090,51-75% of geographies,,51-75% of geographies
+Illinois,Black,All,49200,13460,4380,51-75% of geographies,Bottom 25% of geographies,26-50% of geographies
+Alabama,Black,All,46200,40200,10450,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+Florida,Black,All,57016,30000,15100,51-75% of geographies,51-75% of geographies,51-75% of geographies
+California,Black,All,38565,33500,14650,51-75% of geographies,51-75% of geographies,51-75% of geographies
+New York,Black,Female,53710,56500,500,51-75% of geographies,Top 25% of geographies,Bottom 25% of geographies
+Ohio,Black,All,38288,36000,2735,51-75% of geographies,Top 25% of geographies,Bottom 25% of geographies
+Florida,Black,Female,47499,21000,5160,51-75% of geographies,51-75% of geographies,26-50% of geographies
+Michigan,Black,Female,36000,,4020,51-75% of geographies,,26-50% of geographies
+South Carolina,Black,Female,33870,,8000,51-75% of geographies,,51-75% of geographies
+Louisiana,Black,All,65004,57100,14250,Top 25% of geographies,Top 25% of geographies,51-75% of geographies
+Maryland,Black,All,126500,74548,33810,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Florida,Black,Male,119000,,36220,Top 25% of geographies,,51-75% of geographies
+North Carolina,Black,Female,98000,36102,44500,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+California,Black,Male,284450,,77266,Top 25% of geographies,,Top 25% of geographies
+Pennsylvania,Black,All,83640,,6700,Top 25% of geographies,,26-50% of geographies
+Virginia,Black,All,151080,68000,23580,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Maryland,Black,Female,169810,74548,33810,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+North Carolina,Black,All,80780,26070,26610,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+Delaware,White,All,,,,,,
+North Dakota,White,Male,,,,,,
+North Dakota,White,All,,,,,,
+Hawaii,White,All,,,,,,
+New Mexico,White,Female,,,,,,
+Alaska,White,Male,,,,,,
+Rhode Island,White,Male,,,,,,
+Wyoming,White,All,,,,,,
+North Dakota,White,Female,,,,,,
+Rhode Island,White,Female,,,,,,
+Wyoming,White,Female,,,,,,
+Alaska,White,Female,,,,,,
+Montana,White,Female,,,,,,
+Vermont,White,Female,,,,,,
+Vermont,White,All,,,,,,
+District of Columbia,White,All,,,,,,
+Wyoming,White,Male,,,,,,
+Hawaii,White,Female,,,,,,
+Delaware,White,Male,,,,,,
+Nebraska,White,Female,,,,,,
+Nebraska,White,Male,,,,,,
+New Mexico,White,Male,,,,,,
+Delaware,White,Female,,,,,,
+Alaska,White,All,,,,,,
+Vermont,White,Male,,,,,,
+District of Columbia,White,Male,,,,,,
+District of Columbia,White,Female,,,,,,
+South Dakota,White,All,,,,,,
+South Dakota,White,Male,,,,,,
+South Dakota,White,Female,,,,,,
+Hawaii,White,Male,,,,,,
+Nevada,White,Male,193680,40000,48790,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+South Carolina,White,All,169100,46500,100000,26-50% of geographies,26-50% of geographies,51-75% of geographies
+Tennessee,White,Female,119950,35000,59575,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies
+New Hampshire,White,Male,182210,,109575,26-50% of geographies,,26-50% of geographies
+Georgia,White,All,160452,53000,95400,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Iowa,White,Female,134920,36000,89883,26-50% of geographies,26-50% of geographies,51-75% of geographies
+Tennessee,White,All,144860,43090,74343,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies
+Illinois,White,All,164615,62800,93575,26-50% of geographies,51-75% of geographies,26-50% of geographies
+Michigan,White,Male,181850,65500,102175,26-50% of geographies,51-75% of geographies,26-50% of geographies
+South Carolina,White,Male,208360,60000,121800,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Alabama,White,Female,134020,42550,78285,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Missouri,White,Male,163500,77000,101500,26-50% of geographies,51-75% of geographies,26-50% of geographies
+Pennsylvania,White,Female,145400,42265,81200,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Ohio,White,Female,123900,32600,63110,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Texas,White,Female,154650,32000,87495,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+Maine,White,Female,147984,,127385,26-50% of geographies,,51-75% of geographies
+Oklahoma,White,All,144300,56000,78125,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies
+Michigan,White,Female,138544,52000,63660,26-50% of geographies,51-75% of geographies,26-50% of geographies
+Texas,White,Male,190105,60550,94200,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies
+Nevada,White,Female,155200,28800,106890,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+Nevada,White,All,169210,40000,84880,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+Iowa,White,Male,198000,62500,124200,26-50% of geographies,51-75% of geographies,26-50% of geographies
+Louisiana,White,All,156180,33750,95801,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+South Carolina,White,Female,126765,29000,67101,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+North Carolina,White,All,163780,35000,93001,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+New York,White,Male,172624,35500,127000,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+Michigan,White,All,158625,58000,85000,26-50% of geographies,51-75% of geographies,26-50% of geographies
+Pennsylvania,White,All,175220,54500,100225,26-50% of geographies,51-75% of geographies,51-75% of geographies
+Georgia,White,Female,119279,53000,73850,26-50% of geographies,51-75% of geographies,26-50% of geographies
+Texas,White,All,173900,43500,90100,26-50% of geographies,26-50% of geographies,26-50% of geographies
+Oklahoma,White,Female,136853,53500,58500,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies
+Louisiana,White,Male,176501,41500,122125,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+Rhode Island,White,All,156350,,33050,26-50% of geographies,,Bottom 25% of geographies
+Illinois,White,Male,190130,72750,120100,26-50% of geographies,51-75% of geographies,26-50% of geographies
+New Hampshire,White,Female,224000,69000,187190,51-75% of geographies,51-75% of geographies,Top 25% of geographies
+Arizona,White,All,215130,62700,126005,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Pennsylvania,White,Male,214300,60000,126490,51-75% of geographies,26-50% of geographies,51-75% of geographies
+Oregon,White,Male,264825,99500,132550,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+Wisconsin,White,Female,157400,64000,88070,51-75% of geographies,51-75% of geographies,26-50% of geographies
+New Hampshire,White,All,203500,63500,109575,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Idaho,White,Male,255745,100901,137945,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+Illinois,White,Female,159150,53500,61245,51-75% of geographies,51-75% of geographies,26-50% of geographies
+Minnesota,White,Female,207800,71200,114780,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+Georgia,White,Male,226000,54500,104050,51-75% of geographies,26-50% of geographies,26-50% of geographies
+Kansas,White,Male,210030,,163440,51-75% of geographies,,51-75% of geographies
+Florida,White,All,204150,54150,115762,51-75% of geographies,51-75% of geographies,51-75% of geographies
+New Jersey,White,Female,212000,86000,146860,51-75% of geographies,Top 25% of geographies,Top 25% of geographies
+Montana,White,Male,219376,,169860,51-75% of geographies,,51-75% of geographies
+Arizona,White,Male,215130,62700,160000,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Washington,White,All,226115,100000,113000,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+Wisconsin,White,All,215230,60000,131578,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Florida,White,Male,222300,55500,141960,51-75% of geographies,26-50% of geographies,51-75% of geographies
+Washington,White,Female,190730,87000,104347,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+New Mexico,White,All,210965,74500,73000,51-75% of geographies,Top 25% of geographies,Bottom 25% of geographies
+Connecticut,White,Male,231600,40300,146895,51-75% of geographies,Bottom 25% of geographies,51-75% of geographies
+Idaho,White,All,188965,54500,92530,51-75% of geographies,51-75% of geographies,26-50% of geographies
+Iowa,White,All,183816,52000,99920,51-75% of geographies,26-50% of geographies,51-75% of geographies
+Florida,White,Female,181613,53900,95800,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Utah,White,Female,205100,58100,126850,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Arizona,White,Female,207880,69000,92000,51-75% of geographies,51-75% of geographies,51-75% of geographies
+North Carolina,White,Female,173140,32000,89370,51-75% of geographies,Bottom 25% of geographies,51-75% of geographies
+New York,White,All,198800,41700,132000,51-75% of geographies,Bottom 25% of geographies,51-75% of geographies
+Oregon,White,All,236741,73350,130301,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+Oregon,White,Female,228670,44000,130000,51-75% of geographies,26-50% of geographies,Top 25% of geographies
+Montana,White,All,186500,98200,118970,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+Wisconsin,White,Male,265885,60000,209990,51-75% of geographies,26-50% of geographies,Top 25% of geographies
+Washington,White,Male,277300,100260,125000,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+Utah,White,All,261110,58500,145520,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+Utah,White,Male,367950,97000,193775,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Maryland,White,Female,294700,110100,182745,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Massachusetts,White,Male,318700,84200,226470,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Maryland,White,Male,454240,77000,317740,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+Virginia,White,Male,392210,107000,248750,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Virginia,White,Female,254230,82500,129500,Top 25% of geographies,Top 25% of geographies,51-75% of geographies
+Massachusetts,White,All,318641,80000,194909,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+California,White,All,369405,100000,245950,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+New Jersey,White,Male,447700,69700,297184,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+Minnesota,White,All,250200,71500,152268,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+Colorado,White,All,330000,98000,211585,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Colorado,White,Female,302500,98000,172820,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+New York,White,Female,229650,45000,160990,Top 25% of geographies,26-50% of geographies,Top 25% of geographies
+Massachusetts,White,Female,314740,75000,175700,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+California,White,Female,386300,118750,239750,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Connecticut,White,All,244400,45000,185300,Top 25% of geographies,26-50% of geographies,Top 25% of geographies
+Colorado,White,Male,334200,94800,269690,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+California,White,Male,353330,65000,258400,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+Connecticut,White,Female,323130,63000,260750,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+New Jersey,White,All,327800,71370,212000,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+Maryland,White,All,347300,97800,239000,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Virginia,White,All,292100,86900,184050,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+Minnesota,White,Male,293205,71500,229370,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+West Virginia,White,Female,105900,25300,52535,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Alabama,White,All,132910,42565,78310,Bottom 25% of geographies,26-50% of geographies,26-50% of geographies
+Mississippi,White,All,96350,31000,59150,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Maine,White,Male,101279,,49463,Bottom 25% of geographies,,Bottom 25% of geographies
+Idaho,White,Female,106110,33900,58861,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+Indiana,White,Male,126625,49100,58330,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+Kentucky,White,Male,122580,48000,84800,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+Arkansas,White,All,111968,37200,71670,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Nebraska,White,All,114230,48000,63500,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+Missouri,White,All,136995,54000,82130,Bottom 25% of geographies,26-50% of geographies,26-50% of geographies
+Missouri,White,Female,106900,32500,59095,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+Indiana,White,Female,111010,27850,75800,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+Mississippi,White,Female,82794,28010,42000,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Kansas,White,All,134913,24000,77180,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Ohio,White,Male,160900,45000,113630,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+Mississippi,White,Male,131415,31300,90450,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Ohio,White,All,140300,40250,85533,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+Maine,White,All,132660,53000,93279,Bottom 25% of geographies,26-50% of geographies,26-50% of geographies
+Kentucky,White,Female,102300,40000,55600,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+West Virginia,White,Male,122165,52000,64340,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+West Virginia,White,All,114000,34750,60000,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+North Carolina,White,Male,156000,36000,93001,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Indiana,White,All,122600,41500,65700,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Arkansas,White,Female,106030,37500,56470,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+Louisiana,White,Female,103540,26500,63794,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+Alabama,White,Male,129000,42565,78890,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Oklahoma,White,Male,144300,60000,101810,Bottom 25% of geographies,26-50% of geographies,26-50% of geographies
+Arkansas,White,Male,159990,35350,118445,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+Tennessee,White,Male,163090,54500,90785,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+Kansas,White,Female,72965,20000,50574,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+Kentucky,White,All,115230,47500,65920,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+Wisconsin,Hispanic,Female,,,,,,
+Missouri,Hispanic,Female,,,,,,
+Connecticut,Hispanic,Male,,,,,,
+Mississippi,Hispanic,Male,,,,,,
+South Dakota,Hispanic,All,,,,,,
+Arkansas,Hispanic,Female,,,,,,
+Maine,Hispanic,All,,,,,,
+Maryland,Hispanic,Female,,,,,,
+Washington,Hispanic,Female,,,,,,
+Wisconsin,Hispanic,All,,,,,,
+Georgia,Hispanic,All,,,,,,
+South Dakota,Hispanic,Female,,,,,,
+Rhode Island,Hispanic,Female,,,,,,
+Mississippi,Hispanic,Female,,,,,,
+Montana,Hispanic,Male,,,,,,
+Massachusetts,Hispanic,Male,,,,,,
+Georgia,Hispanic,Male,,,,,,
+Hawaii,Hispanic,All,,,,,,
+New Jersey,Hispanic,Male,,,,,,
+New Mexico,Hispanic,Male,,,,,,
+North Dakota,Hispanic,Male,,,,,,
+Washington,Hispanic,All,,,,,,
+Louisiana,Hispanic,Male,,,,,,
+Maine,Hispanic,Male,,,,,,
+South Carolina,Hispanic,Female,,,,,,
+Iowa,Hispanic,Female,,,,,,
+Wyoming,Hispanic,Female,,,,,,
+Vermont,Hispanic,All,,,,,,
+Iowa,Hispanic,All,,,,,,
+Delaware,Hispanic,All,,,,,,
+Montana,Hispanic,Female,,,,,,
+Missouri,Hispanic,Male,,,,,,
+Virginia,Hispanic,Male,,,,,,
+West Virginia,Hispanic,Male,,,,,,
+Vermont,Hispanic,Female,,,,,,
+Massachusetts,Hispanic,All,,,,,,
+Oregon,Hispanic,All,,,,,,
+Louisiana,Hispanic,Female,,,,,,
+Hawaii,Hispanic,Male,,,,,,
+New Jersey,Hispanic,All,,,,,,
+Hawaii,Hispanic,Female,,,,,,
+Kansas,Hispanic,Female,,,,,,
+Kansas,Hispanic,Male,,,,,,
+Utah,Hispanic,Female,,,,,,
+Idaho,Hispanic,All,,,,,,
+Oregon,Hispanic,Female,,,,,,
+Virginia,Hispanic,All,,,,,,
+New Mexico,Hispanic,Female,,,,,,
+Washington,Hispanic,Male,,,,,,
+Kentucky,Hispanic,Male,,,,,,
+Ohio,Hispanic,Female,,,,,,
+Rhode Island,Hispanic,All,,,,,,
+Indiana,Hispanic,Male,,,,,,
+South Carolina,Hispanic,All,,,,,,
+Missouri,Hispanic,All,,,,,,
+Kentucky,Hispanic,Female,,,,,,
+Massachusetts,Hispanic,Female,,,,,,
+Utah,Hispanic,Male,,,,,,
+West Virginia,Hispanic,All,,,,,,
+Tennessee,Hispanic,Male,,,,,,
+Alabama,Hispanic,All,,,,,,
+Indiana,Hispanic,Female,,,,,,
+Ohio,Hispanic,All,,,,,,
+West Virginia,Hispanic,Female,,,,,,
+Pennsylvania,Hispanic,Female,,,,,,
+Pennsylvania,Hispanic,All,,,,,,
+Michigan,Hispanic,Female,,,,,,
+Delaware,Hispanic,Male,,,,,,
+Alabama,Hispanic,Female,,,,,,
+Alaska,Hispanic,Female,,,,,,
+New Hampshire,Hispanic,All,,,,,,
+North Carolina,Hispanic,All,,,,,,
+Minnesota,Hispanic,Female,,,,,,
+North Dakota,Hispanic,Female,,,,,,
+Pennsylvania,Hispanic,Male,,,,,,
+Ohio,Hispanic,Male,,,,,,
+North Carolina,Hispanic,Male,,,,,,
+Arkansas,Hispanic,All,,,,,,
+Kentucky,Hispanic,All,,,,,,
+Virginia,Hispanic,Female,,,,,,
+Nebraska,Hispanic,All,,,,,,
+New Hampshire,Hispanic,Female,,,,,,
+Louisiana,Hispanic,All,,,,,,
+Maryland,Hispanic,All,,,,,,
+District of Columbia,Hispanic,Male,,,,,,
+Wyoming,Hispanic,Male,,,,,,
+Utah,Hispanic,All,,,,,,
+Wisconsin,Hispanic,Male,,,,,,
+Illinois,Hispanic,Male,,,,,,
+Delaware,Hispanic,Female,,,,,,
+Oklahoma,Hispanic,All,,,,,,
+Illinois,Hispanic,Female,,,,,,
+South Dakota,Hispanic,Male,,,,,,
+Alabama,Hispanic,Male,,,,,,
+District of Columbia,Hispanic,Female,,,,,,
+Kansas,Hispanic,All,,,,,,
+Idaho,Hispanic,Male,,,,,,
+Michigan,Hispanic,Male,,,,,,
+Nebraska,Hispanic,Female,,,,,,
+Mississippi,Hispanic,All,,,,,,
+Colorado,Hispanic,All,,,,,,
+Alaska,Hispanic,Male,,,,,,
+Michigan,Hispanic,All,,,,,,
+Oklahoma,Hispanic,Female,,,,,,
+New Hampshire,Hispanic,Male,,,,,,
+Connecticut,Hispanic,All,,,,,,
+Maine,Hispanic,Female,,,,,,
+Minnesota,Hispanic,All,,,,,,
+Connecticut,Hispanic,Female,,,,,,
+South Carolina,Hispanic,Male,,,,,,
+Rhode Island,Hispanic,Male,,,,,,
+Arkansas,Hispanic,Male,,,,,,
+Vermont,Hispanic,Male,,,,,,
+Colorado,Hispanic,Female,,,,,,
+Nevada,Hispanic,Female,,,,,,
+Oklahoma,Hispanic,Male,,,,,,
+Minnesota,Hispanic,Male,,,,,,
+Wyoming,Hispanic,All,,,,,,
+Montana,Hispanic,All,,,,,,
+Oregon,Hispanic,Male,,,,,,
+Tennessee,Hispanic,Female,,,,,,
+Tennessee,Hispanic,All,,,,,,
+Georgia,Hispanic,Female,,,,,,
+North Carolina,Hispanic,Female,,,,,,
+New Jersey,Hispanic,Female,,,,,,
+Idaho,Hispanic,Female,,,,,,
+Indiana,Hispanic,All,,,,,,
+District of Columbia,Hispanic,All,,,,,,
+Iowa,Hispanic,Male,,,,,,
+Nevada,Hispanic,Male,,,,,,
+Maryland,Hispanic,Male,,,,,,
+Colorado,Hispanic,Male,,,,,,
+North Dakota,Hispanic,All,,,,,,
+Alaska,Hispanic,All,,,,,,
+Nebraska,Hispanic,Male,,,,,,
+Nevada,Hispanic,All,22590,,11155,26-50% of geographies,,26-50% of geographies
+Texas,Hispanic,Male,61930,20000,31930,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+Arizona,Hispanic,All,51450,24000,20520,51-75% of geographies,26-50% of geographies,51-75% of geographies
+California,Hispanic,All,71287,47500,26000,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Texas,Hispanic,All,58900,20600,28743,51-75% of geographies,Bottom 25% of geographies,51-75% of geographies
+California,Hispanic,Female,52720,45200,12600,51-75% of geographies,51-75% of geographies,51-75% of geographies
+California,Hispanic,Male,111611,53500,42295,51-75% of geographies,26-50% of geographies,51-75% of geographies
+Florida,Hispanic,All,101940,46000,15000,51-75% of geographies,51-75% of geographies,51-75% of geographies
+Illinois,Hispanic,All,74465,,48790,51-75% of geographies,,Top 25% of geographies
+Texas,Hispanic,Female,55350,20600,27611,51-75% of geographies,26-50% of geographies,Top 25% of geographies
+Florida,Hispanic,Male,116059,46000,31625,51-75% of geographies,26-50% of geographies,51-75% of geographies
+New Mexico,Hispanic,All,105985,,17850,Top 25% of geographies,,51-75% of geographies
+Florida,Hispanic,Female,71835,45000,10005,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+Arizona,Hispanic,Female,96320,,19130,Top 25% of geographies,,Top 25% of geographies
+New York,Hispanic,Male,21100,,9800,Bottom 25% of geographies,,Bottom 25% of geographies
+New York,Hispanic,Female,4600,,500,Bottom 25% of geographies,,Bottom 25% of geographies
+Arizona,Hispanic,Male,30480,,20520,Bottom 25% of geographies,,26-50% of geographies
+New York,Hispanic,All,12000,13500,2000,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
